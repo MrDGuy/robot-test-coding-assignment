@@ -1,0 +1,28 @@
+{
+    "name": "Robot Test Coding Assignment",
+    "description": "",
+    "dependencies": {
+        "device": "*",
+        "Robot Extension": "github:MrDGuy/robot-extension#9c77349a3fe19cbb531500cdbc71c8ad1443b174"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md",
+        "assets.json",
+        "main.py",
+        "tilemap.g.jres",
+        "tilemap.g.ts"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "targetVersions": {
+        "target": "1.12.39",
+        "targetId": "arcade"
+    },
+    "supportedTargets": [
+        "arcade"
+    ],
+    "preferredEditor": "pyprj"
+}
