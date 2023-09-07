@@ -35,22 +35,25 @@ Use the commands and conditions in the robot category.
 2 Points are Earned For for using 2 of the following: Function, For Loop or If statement
 
 ```python
-  def do_something():
-    pass
+  def move_3_times():
+    robot.move_forward()
+    robot.move_forward()
+    robot.move_forward()
 
-  while goal_reached() == False:
+  while robot.goal_reached() == False:
     pass
 
   for i in range(4):
     pass
 
   if robot.detect_coin():
-    pass
+    robot.collect_coin():
 
   if robot.can_move("forward"):
-    pass
+    robot.move_forward()
   else:
-    pass
+    robot.turn_left()
+    robot.turn_left()
 ```
 
 ## Share your work to Google Classroom  
