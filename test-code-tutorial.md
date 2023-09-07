@@ -44,7 +44,7 @@ Use the commands and conditions in the robot category.
     pass
 
   for i in range(4):
-    pass
+    robot.move_forward()
 
   if robot.detect_coin():
     robot.collect_coin():
