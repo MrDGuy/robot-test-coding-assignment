@@ -12,7 +12,8 @@
         "assets.json",
         "main.py",
         "tilemap.g.jres",
-        "tilemap.g.ts"
+        "tilemap.g.ts",
+        "test-code-tutorial.md"
     ],
     "testFiles": [
         "test.ts"
