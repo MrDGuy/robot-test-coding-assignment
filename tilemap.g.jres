@@ -61,7 +61,7 @@
     "level2": {
         "id": "level2",
         "mimeType": "application/mkcd-tilemap",
-        "data": "MTAwYTAwMDcwMDA0MDQwNDBhMDUwYTA0MGEwNTBiMDkwNDBkMDIwZTBlMGUxMTBkMDQwNTA0MTMwZDA1MDMwMzE0MGQwYzA5MTAwZTBlMGUwZTBlMGYwNTA0MDQxNDAzMGQwMzBkMGQwZDBkMGMwOTEyMGUwZTE0MGUwZTBlMDEwYzA3MDYwNjA2MDYwNjA2MDYwNjA4MjIyMjIyMjIyMjIyMDIwMDAwMjIyMjIyMjIwMjIyMDIwMDAwMDAyMjAyMjIyMjIyMjIwMjAwMDAwMDIwMjIyMjIyMjIyMg==",
+        "data": "MTAwYTAwMDcwMDA0MDQwNDBhMDUwYTA0MGEwNTBiMDkwMTBkMGQwZDBkMDUwZDBkMDQwNTE0MDMxMDBlMGUxMzExMGQwYzA5MTIxMzBmMGQwNTA1MTIxMTA0MDQwNDA0MDQxMDEzMTEwMzE0MGMwOTAyMGUwZTBmMDMxMjBlMGYwYzA3MDYwNjA2MDYwNjA2MDYwNjA4MjIyMjIyMjIyMjAyMjIyMjIyMjIwMjAyMDAwMDIyMDIwMDIyMDIyMDIyMjIwMDIwMjAwMjAwMjAwMDIwMjIyMjIyMjIyMg==",
         "tileset": [
             "myTiles.transparency16",
             "myTiles.tile1",
@@ -82,8 +82,8 @@
             "sprites.vehicle.roadTurn1",
             "sprites.vehicle.roadTurn2",
             "sprites.vehicle.roadTurn3",
-            "myTiles.tile11",
-            "myTiles.tile3"
+            "myTiles.tile3",
+            "sprites.vehicle.roadVertical"
         ],
         "displayName": "level1"
     },
