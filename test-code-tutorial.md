@@ -38,7 +38,7 @@ Use the commands and conditions in the robot category.
   def do_something():
     pass
 
-  while robot.detect_coin():
+  while goal_reached() == False:
     pass
 
   for i in range(4):
